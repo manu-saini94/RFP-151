@@ -1,1 +1,2 @@
 This is sample3 by dev-1
+This line is added by dev-2
