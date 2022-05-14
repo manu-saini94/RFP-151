@@ -1,2 +1,2 @@
 This is sample4 developed by dev-2
-This is sample4 modified by dev-1
+This is sample4 modified by dev-1, modified by developer-1
